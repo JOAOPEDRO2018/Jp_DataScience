@@ -5,7 +5,7 @@
 </p>
 
 # João Pedro Monteiro
-<sub>Estudante de Engenharia de Computação</sub>
+<sub>Futuro Engenheiro de Computação</sub>
 
 Sou estudante de Engenharia de Computação e estou trilhando minha carreira para área de DataScience.
 
