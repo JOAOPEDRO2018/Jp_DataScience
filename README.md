@@ -20,4 +20,5 @@ Sou estudante de Engenharia de Computação e estou trilhando minha carreira par
 ## Projetos:
 
 
-* **Como tratar dados faltantes**: https://bityli.com/5A8ZR 
+* **Como tratar dados faltantes**: https://bityli.com/5A8ZR
+* **Árvore de decisão Covid-19**  encurtador.com.br/htANO
