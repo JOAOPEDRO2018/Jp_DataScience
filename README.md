@@ -5,12 +5,12 @@
 </p>
 
 # João Pedro Monteiro
-<sub>Futuro Engenheiro de Computação</sub>
+<sub>Sou graduando de Engenharia de Computação aprendiz de ciência de dados e estou trilhando minha carreira para área de DataScience.</sub>
 
-Sou estudante de Engenharia de Computação e estou trilhando minha carreira para área de DataScience.
+Neste portifolio você encontrará meus projetos e artigos das quais estou desenvolvendo e irei desenvolver, muitos deles serão na área de analise de dados, atualmente meu foco e em Python, Machine lerning e Power Bi, com conhecimentos em Java e Mysql desenvolvi um projeto de faculdade que inclusive esta guardado aqui no Github.
 
 
-**Background in:** Python, Java, MySql e Machine Lerning.
+**Background in:** Python, Java, MySql e Power Bi.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-louren%C3%A7o-monteiro-57479a139/)
@@ -22,3 +22,4 @@ Sou estudante de Engenharia de Computação e estou trilhando minha carreira par
 
 * **Como tratar dados faltantes**: https://bityli.com/5A8ZR
 * **Árvore de decisão Covid-19**  https://bityli.com/ujm5m
+* **Relatorio de vendas feito a partir do intensivão dado pela hashtag treinamentos:** https://abre.ai/relatorio-de-vendas
