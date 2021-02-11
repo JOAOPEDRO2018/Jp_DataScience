@@ -23,3 +23,4 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 * **Como tratar dados faltantes**: https://bityli.com/5A8ZR
 * **Árvore de decisão Covid-19**  https://bityli.com/ujm5m
 * **Relatorio de vendas feito a partir do intensivão dado pela hashtag treinamentos:** https://abre.ai/relatorio-de-vendas
+* **Com base em uma tabela de finança usei o power bi para fazer um relatório simples e direto dos principais aspectos da planilha:** https://abre.ai/relatorio-do-financeiro
