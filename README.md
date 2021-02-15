@@ -23,3 +23,4 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 * **Como tratar dados faltantes**: https://bityli.com/5A8ZR
 * **Árvore de decisão Covid-19**  https://bityli.com/ujm5m
 * **Medium mostrando Três relatórios simples de vendas porém com uma ótima apresentação graças ao Power Bi.:** https://abre.ai/b9FI
+* **Analisando os dados do Airbnb da cidade de Istanbul-Turquia:** https://abre.ai/analisandodadosairbnb
