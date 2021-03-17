@@ -1,0 +1,3 @@
+[console_scripts]
+hss = hss.__main__:main
+
