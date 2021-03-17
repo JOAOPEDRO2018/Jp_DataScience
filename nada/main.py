@@ -27,7 +27,7 @@ def main():
 
     st.subheader("Carregar arquivo de imagem")
     image_file = st.file_uploader("Escolha uma imagem ", type=["jpg", "jpeg", "png"])
-    our_image = Image.open("image/empty.jpg")
+    our_image = Image.open("../image/empty.jpg")
 
 
 
