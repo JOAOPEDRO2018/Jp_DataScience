@@ -24,3 +24,4 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 * **Árvore de decisão Covid-19**  https://abre.ai/arvorededecisaocovid19
 * **Medium mostrando Três relatórios simples de vendas porém com uma ótima apresentação graças ao Power Bi.:** https://abre.ai/b9FI
 * **Analisando os dados do Airbnb da cidade de Istanbul-Turquia:** https://abre.ai/analisandodadosairbnb
+* **Analisando os dados da COVID-19 no Brasil e no mundo:** https://abre.ai/c4oz
