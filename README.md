@@ -18,7 +18,7 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 
 
 ## Projetos:
-* **<PowerBI>**
+* **PowerBI**
 Os projetos abordam as seguintes tecnicas de manipulação de dados:
 
   Fórmulas no Power BI
@@ -47,7 +47,7 @@ Os projetos abordam as seguintes tecnicas de manipulação de dados:
 * **Relatório de Vendas : https://app.powerbi.com/view?r=eyJrIjoiYjEzNzgzOGUtOWNkNC00NjJjLTg2MjUtODUyNGY1ODFhOTFjIiwidCI6IjExMTdhNTA5LTI1Y2QtNDVkNC04YzVkLTk3ZGM5OTA1YWM4OCJ9  
 * **Medium mostrando Três relatórios simples de vendas porém com uma ótima apresentação graças ao Power Bi.:** https://abre.ai/b9FI
   ________________________________________________________________________________________________________________________________________________________________  
-* **<Python>**
+* **Python**
 * **Como tratar dados faltantes**: https://abre.ai/formasdetratardadosfaltantes
 * **Árvore de decisão Covid-19**  https://abre.ai/arvorededecisaocovid19
 * **Analisando os dados do Airbnb da cidade de Istanbul-Turquia:** https://abre.ai/analisandodadosairbnb
