@@ -18,10 +18,26 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 
 
 ## Projetos:
-
-
+* **<PowerBI>**
+Os projetos abordam as seguintes tecnicas de manipulação de dados:
+Fórmulas no Power BI
+Fórmula AVERAGEX
+Fórmula SUMX
+Fórmula SELECTEDVALUE
+Fórmulas DAX no Power BI
+Gráficos no Power BI
+Classificar gráficos em ordem cronológica no Power BI
+Segmentação de dados no Power BI
+Criação de dashboard
+Cartões no Power BI
+Análise de dados no Power BI
+  
+* **Estudo de caso de vendas** : https://app.powerbi.com/view?r=eyJrIjoiN2RjZjllYzEtN2M1OS00OTE3LTg3ZGQtMDM5ZGYyZjA5NjRmIiwidCI6IjExMTdhNTA5LTI1Y2QtNDVkNC04YzVkLTk3ZGM5OTA1YWM4OCJ9
+* **Relatório de Vendas : https://app.powerbi.com/view?r=eyJrIjoiYjEzNzgzOGUtOWNkNC00NjJjLTg2MjUtODUyNGY1ODFhOTFjIiwidCI6IjExMTdhNTA5LTI1Y2QtNDVkNC04YzVkLTk3ZGM5OTA1YWM4OCJ9  
+* **Medium mostrando Três relatórios simples de vendas porém com uma ótima apresentação graças ao Power Bi.:** https://abre.ai/b9FI
+  ________________________________________________________________________________________________________________________________________________________________  
+* **<Python>**
 * **Como tratar dados faltantes**: https://abre.ai/formasdetratardadosfaltantes
 * **Árvore de decisão Covid-19**  https://abre.ai/arvorededecisaocovid19
-* **Medium mostrando Três relatórios simples de vendas porém com uma ótima apresentação graças ao Power Bi.:** https://abre.ai/b9FI
 * **Analisando os dados do Airbnb da cidade de Istanbul-Turquia:** https://abre.ai/analisandodadosairbnb
 * **Analisando os dados da COVID-19 no Brasil e no mundo:** https://abre.ai/c4U3
