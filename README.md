@@ -20,7 +20,7 @@ Neste portifolio você encontrará meus projetos e artigos das quais estou desen
 ## Projetos:
 * **PowerBI:**
 
-Os projetos abordam as seguintes tecnicas de manipulação de dados:
+  Os projetos abordam as seguintes tecnicas de manipulação de dados:
 
   Fórmulas no Power BI
 
